@@ -1,0 +1,29 @@
+h1{
+    background-color:white;
+    font-size: 40px;
+    font-weight: 200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5px;
+    padding: 5px;
+    border: 15px solid red;
+    text-align: center;
+    
+}
+body{color: chartreuse;
+background-color: darkslategrey;}
+img{
+    width: 400px;
+}
+
+.intro{color: red;
+font-weight: bold;}
+#intro{color: blue;}
+.intro2{
+    color: white;
+}
+.one{
+    text-align: center;
+}
+.two{
+    text-decoration: underline;
+}
